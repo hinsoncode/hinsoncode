@@ -8,7 +8,7 @@
   <a href="https://usebrian.ai"><img src="https://img.shields.io/badge/Building-Use%20Brian-34D3FF?style=flat-square&labelColor=0d1117" alt="Building Use Brian"/></a>
   <a href="https://deltadefi.io"><img src="https://img.shields.io/badge/Co--founder-DeltaDeFi-0891B2?style=flat-square&labelColor=0d1117" alt="Co-founder | DeltaDeFi"/></a>
   <a href="https://sidan.io"><img src="https://img.shields.io/badge/Co--founder-SIDAN%20Lab-0891B2?style=flat-square&labelColor=0d1117" alt="Co-founder | SIDAN Lab"/></a>
-  <a href="https://x.com/HinsonSIDAN"><img src="https://img.shields.io/badge/@HinsonSIDAN-0d1117?style=flat-square&logo=x&logoColor=white" alt="X @HinsonSIDAN"/></a>
+  <a href="https://x.com/hinsoncode"><img src="https://img.shields.io/badge/@hinsoncode-0d1117?style=flat-square&logo=x&logoColor=white" alt="X @hinsoncode"/></a>
 </p>
 
 ## Current focus
